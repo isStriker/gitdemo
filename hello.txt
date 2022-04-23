@@ -2,3 +2,4 @@ hello git!
 version 3.0
 branch lianxi
 merge master
+merge hot-fix
